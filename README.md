@@ -1,2 +1,2 @@
 # LTasks
-Univeristy tasks
+University tasks
