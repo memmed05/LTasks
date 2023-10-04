@@ -1,2 +1,2 @@
 # LTasks
-Java Univeristy tasks
+Univeristy tasks
